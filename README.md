@@ -2,7 +2,7 @@
 # FunLearn: Free Online Education Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)] (https://github.com/Antrikshsoft9990/EY_Techathon5.0_FunLearn_e-learning_Platform)
 
 FunLearn is a free online education platform designed to bridge the gap in access to quality education. We provide students with a vast range of educational resources and empower teachers with the tools they need to teach effectively online.
 
@@ -76,7 +76,7 @@ The system consists of a front-end user interface and a back-end database. The u
 
 ### Installation
 
-1.  Clone the repository: git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+1.  Clone the repository: git clone (https://github.com/Antrikshsoft9990/EY_Techathon5.0_FunLearn_e-learning_Platform)
 2.  Set up your database (MySQL or equivalent).
 3.  Configure the back-end to connect to your database.
 4.  Set up a local web server to serve the front-end files.
@@ -102,10 +102,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-[Your Name/Organization] - [Your Email/Website]
 
 ---
 
-This README is designed to be attractive and informative. Remember to replace placeholders like YOUR_USERNAME, YOUR_REPO, and contact information with your actual details. You can also add screenshots or GIFs to further enhance the presentation.
+
